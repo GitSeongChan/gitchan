@@ -1,4 +1,4 @@
-package first;
+package selab;
 
 public class Main {
     public static void main(String[] args) {
